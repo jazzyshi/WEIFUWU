@@ -5,4 +5,6 @@ package com.weifuwu.sysapi;
  */
 public interface SysService {
     String getPersonInfo();
+
+    String testlocal();
 }
