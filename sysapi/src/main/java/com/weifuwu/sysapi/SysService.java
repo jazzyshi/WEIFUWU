@@ -7,4 +7,6 @@ public interface SysService {
     String getPersonInfo();
 
     String testlocal();
+
+    String testlocal1();
 }
